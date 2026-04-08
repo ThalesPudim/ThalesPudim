@@ -6,7 +6,11 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThalesPudim&theme=github_dark)
 
-![Snake](https://raw.githubusercontent.com/ThalesPudim/ThalesPudim/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThalesPudim/ThalesPudim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThalesPudim/ThalesPudim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ThalesPudim/ThalesPudim/output/github-snake.svg" />
+</picture>
 
 ## Tecnologias que utilizo no meu dia!!
 <div><br/>
