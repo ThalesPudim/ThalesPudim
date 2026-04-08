@@ -5,7 +5,7 @@
 [![steam](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](279291041847312384)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ThalesPudim&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesPudim&layout=compact&theme=dark&hide_border=true&card_width=400)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThalesPudim&theme=github_dark)
 
 ## Tecnologias que utilizo no meu dia!!
 
