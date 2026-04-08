@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThalesPudim&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThalesPudim&show_icons=true&theme=dark&hide_border=true)
+![Snake](https://github.com/ThalesPudim/ThalesPudim/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Tecnologias que utilizo no meu dia!!
 <div><br/>
