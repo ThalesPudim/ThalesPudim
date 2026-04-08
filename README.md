@@ -4,7 +4,7 @@
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/PudimTrue/edit/info)
 [![steam](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](279291041847312384)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesPudim&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesPudim&layout=compact&langs_count=6&hide_border=true&theme=dark)
 
 ## Tecnologias que utilizo no meu dia!!
 
